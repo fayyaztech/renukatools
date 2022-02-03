@@ -228,7 +228,7 @@
                                                 <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                                     <div class="col-md-1"> </div>
                                                     <div class="col-md-10">
-                                                        <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/Small 1.jpg" alt="include/img/Micro Bore Units/Nomenclature/Big 1.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                                        <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/Big1.png" alt="include/img/Micro Bore Units/Nomenclature/Big1.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                     </div>
                                                     <div class="col-md-1"> </div>
                                                 </div>
@@ -236,7 +236,7 @@
                                                 <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                                     <div class="col-md-1"> </div>
                                                     <div class="col-md-10">
-                                                        <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/Small 2.jpg" alt="include/img/Micro Bore Units/Nomenclature/Big 2.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                                        <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/Big2.png" alt="include/img/Micro Bore Units/Nomenclature/Big2.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                     </div>
                                                     <div class="col-md-1"> </div>
                                                 </div>
@@ -791,123 +791,7 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <h6 class="tab_heading">Clamping Torque Chart for Mounting Screw & Insert Screw of RT MBU</h6>
-                                            <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
-                                                <div class="col-md-6">
-                                                    <div class="responsive_table">
-                                                        <table class="table table-bordered">
-                                                            <thead>
-                                                                <th>Sr. No.</th>
-                                                                <th>Mounting Screw</th>
-                                                                <th>Torque (N.m)</th>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>1</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>RTMS040000</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>1.0</p>
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>2</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>RTMS000609</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>2.2</p>
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>3</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>RTMS000011</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>4.0</p>
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>4</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>RTMS000016</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>5.7</p>
-                                                                    </td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-6">
-                                                    <div class="responsive_table">
-                                                        <table class="table table-bordered">
-                                                            <thead>
-                                                                <th>Sr. No.</th>
-                                                                <th>Insert Screw</th>
-                                                                <th>Torque (N.m)</th>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>1</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>M2.0</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>0.6</p>
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>2</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>M2.2</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>0.8</p>
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>3</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>M2.5</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>1.0</p>
-                                                                    </td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <td>
-                                                                        <p>4</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>M3.5</p>
-                                                                    </td>
-                                                                    <td>
-                                                                        <p>2.5</p>
-                                                                    </td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                         
                                         </div>
                                         <div class="tab-pane fade" id="cartridges_micro_bore_units_mbu_tab_three">
                                             <h6 class="tab_heading">MBU - Straight Mounting Type</h6>
