@@ -80,7 +80,7 @@
                         <div class="col-lg-12">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="include/img/Site Logo/Site logo.png" alt="Site Logo" > 
+                                    <img src="include/img/Site Logo/Site logo.jpg" alt="Site Logo" > 
                                 </a>
                             </div>
                         </div>
