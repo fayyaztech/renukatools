@@ -245,16 +245,19 @@
                                         <div class="tab-pane fade" id="cartridges_micro_bore_units_mbu_tab_two">
                                             <h6 class="tab_heading">MBU - Angular Mounting Type</h6>
                                             <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
-                                                <div class="col-md-3">
+                                                <div class="col-md-2">
                                                     <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small1.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big1.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                 </div>
-                                                <div class="col-md-3">
+                                                <div class="col-md-2">
                                                     <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small2.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big2.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                 </div>
-                                                <div class="col-md-3">
+                                                <div class="col-md-2">
                                                     <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small3.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big3.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                 </div>
-                                                <div class="col-md-3">
+                                                <div class="col-md-2">
+                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small5.png" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big5.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                                </div>
+                                                <div class="col-md-2">
                                                     <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small4.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big4.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                 </div>
                                             </div>
