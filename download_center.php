@@ -151,7 +151,7 @@ include('include/header.php');
                     <div class="col-md-3"></div>
                     <div class="col-md-3">
                         <button id="senddownload_pdf" type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#myModal" style="float: right;display: none;">Click Here To Download</button>
-                    </div>
+                    </div>      
                 </div> -->
 
 
