@@ -195,6 +195,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                     <li> <a class="active" data-toggle="tab" href="#cartridges_micro_bore_units_mbu_tab_one">Introduction</a> </li>
                                     <li> <a data-toggle="tab" href="#cartridges_micro_bore_units_mbu_tab_two">Angular Mounting Type</a> </li>
                                     <li> <a data-toggle="tab" href="#cartridges_micro_bore_units_mbu_tab_three">Straight Mounting Type</a> </li>
+                                    <li> <a data-toggle="tab" href="#cartridges_micro_bore_units_mbu_tab_nine">Customized Micro Bore Units</a> </li>
                                     <li> <a data-toggle="tab" href="#cartridges_micro_bore_units_mbu_tab_four">Applications</a> </li>
                                     <li> <a data-toggle="tab" href="#cartridges_micro_bore_units_mbu_tab_fifth">Mounting Dimensions for MBU</a> </li>
                                     <li> <a data-toggle="tab" href="#cartridges_micro_bore_units_mbu_tab_sixth">Working Dimensions for MBU</a> </li>
@@ -1534,6 +1535,26 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         </div>
                                                     </div>
                                                 </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="cartridges_micro_bore_units_mbu_tab_nine">
+                                        <div class="product-review-info">
+                                            <h6 class="tab_heading">Customized Micro Bore Units </h6>
+                                            <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
+                                                <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
+                                                    <div class="col-md-12">
+                                                        <ul>
+                                                            <li><i class="fa fa-dot-circle-o"></i> &nbsp; Customized Micro Bore Unit designed and manufactured at Renuka Tools® for grooving application.</li>
+                                                            <li><i class="fa fa-dot-circle-o"></i> &nbsp; Customized boring bar also designed and manufactured at Renuka Tools ® for this special application.</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1"> </div>
+                                                <div class="col-md-5">
+                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/custmized Micro bore Unit/Customized MBU Small.jpg" alt="include/img/Micro Bore Units/custmized Micro bore Unit/Customized MBU Big.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                                </div>
+                                                <div class="col-md-1"> </div>
                                             </div>
                                         </div>
                                     </div>
