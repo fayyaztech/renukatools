@@ -80,7 +80,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/RNUKA_PROFILE.png" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="Eccentric Fine Boring Tools" id="duo_boring_bars" class="download_pdf" href="https://drive.google.com/file/d/1dP0oRVqNzlXfJ_LTVfsZRGlrZ-MA5eEm/view?usp=sharing" target="_blank"> &nbsp; <b> Company Profile <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="Eccentric Fine Boring Tools" id="duo_boring_bars"  href="include\downloads\Renuka Tools - Cutting Tools Presentation V22.0.pdf" download> &nbsp; <b> Company Profile <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/master_bore.png" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="Master Catalogue" id="master_bore" class="download_pdf" href="https://drive.google.com/file/d/1ygLEton9OPLu1UVZAvzB2f20CWOOHcFO/view?usp=sharing" target="_blank"> &nbsp; <b> Master Catalogue <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="Master Catalogue" id="master_bore"  href="include\downloads\MICRO BORE UNITS V22.0.pdf" download target="_blank"> &nbsp; <b> Master Catalogue <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>
@@ -96,7 +96,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/MICRO BORE UNITS.jpg" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="Micro Bore Units - MBU" id="micro_bore_units" class="download_pdf" href="https://drive.google.com/file/d/1ygLEton9OPLu1UVZAvzB2f20CWOOHcFO/view?usp=sharing" target="_blank"> &nbsp; <b> Micro Bore Units - MBU <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="Micro Bore Units - MBU" id="micro_bore_units"  href="include\downloads\MICRO BORE UNITS V22.0.pdf" download target="_blank"> &nbsp; <b> Micro Bore Units - MBU <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>
@@ -104,7 +104,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/FINE BORING BAR WITH MBU.jpg" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="Fine Boring Bars With MBU" id="fine_boring_units" class="download_pdf" href="https://drive.google.com/file/d/1GUilf-GhOqDj7aL5M-a3hvUhb6o5Hpdn/view?usp=sharing" target="_blank"> &nbsp; <b> Fine Boring Bars With MBU <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="Fine Boring Bars With MBU" id="fine_boring_units" href="include\downloads\FINE BORING BARS WITH MBU V22.0.pdf" download target="_blank"> &nbsp; <b> Fine Boring Bars With MBU <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/ECCENTRIC FINE BORING BAR.jpg" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="Eccentric Fine Boring Tools" id="duo_boring_bars" class="download_pdf" href="https://drive.google.com/file/d/1zAlQFPMYqAr7V0GX2E4nGlEYiJlCA0jD/view?usp=sharing" target="_blank"> &nbsp; <b> Eccentric Fine Boring Tools <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="Eccentric Fine Boring Tools" id="duo_boring_bars" href="include\downloads\ECCENTRIC FINE BORING TOOLS V22.0.pdf" download target="_blank"> &nbsp; <b> Eccentric Fine Boring Tools <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>
@@ -123,7 +123,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/BCA BORING BARS.jpg" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="BCA Boring Bars" id="bca_boring_bars" class="download_pdf" href="https://drive.google.com/file/d/1RFManZZQ3v2BZRZ_PpgmSlYQMk74rj68/view?usp=sharing" target="_blank"> &nbsp; <b> BCA Boring Bars <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="BCA Boring Bars" id="bca_boring_bars"  href="include\downloads\BCA BORING BARS V22.0.pdf" download target="_blank"> &nbsp; <b> BCA Boring Bars <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>
@@ -131,7 +131,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/BORING KIT.jpg" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="Boring Kit" id="boring_kit" class="download_pdf" href="https://drive.google.com/file/d/1BALdsAGpbZ_6ppM61vkDOUwL4osMFXbP/view?usp=sharing" target="_blank"> &nbsp; <b> Boring Kit <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="Boring Kit" id="boring_kit"  href="include\downloads\BORING KIT V22.0.pdf" download target="_blank"> &nbsp; <b> Boring Kit <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>
@@ -139,7 +139,7 @@ include('include/header.php');
                         <div class="card">
                             <img class="card-img-top" src="include/img/Download Center/DUO BORING BAR.jpg" alt="">
                             <div class="card-body">
-                                <a type="checkbox" name="Duo Boring Bars" id="eccentric_fine_boring_tools" class="download_pdf" href="https://drive.google.com/file/d/1P2b0U3Hi3hD4N-yuWfEneuy5TRI0-RCD/view?usp=sharing"> &nbsp; <b> Duo Boring Bars <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
+                                <a type="checkbox" name="Duo Boring Bars" id="eccentric_fine_boring_tools"  href="include\downloads\DUO BORING BARS V22.0.pdf" download> &nbsp; <b> Duo Boring Bars <i class="fa fa-file-pdf-o pdf-color"></i></b></a>
                             </div>
                         </div>
                     </div>

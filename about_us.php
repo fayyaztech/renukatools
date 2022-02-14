@@ -308,7 +308,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                     <p></p>
                                     <p>Click on any of the below credentials to view them full screen:</p>
                                     <ul>
-                                        <li> <i class="fa fa-dot-circle-o"></i> &nbsp; <a style="text-decoration: underline;" href="https://drive.google.com/file/d/1dP0oRVqNzlXfJ_LTVfsZRGlrZ-MA5eEm/view?usp=sharing" target="_blank">Company Profile</a></li>
+                                        <li> <i class="fa fa-dot-circle-o"></i> &nbsp; <a style="text-decoration: underline;" href="include\downloads\Renuka Tools - Cutting Tools Presentation V22.0.pdf" download target="_blank">Company Profile</a></li>
                                         <li> <i class="fa fa-dot-circle-o"></i> &nbsp; <a style="text-decoration: underline;" href="include/About_us_PDF/1ISO Certificate on letterhead.pdf" target="_blank">ISO Certificate – 9001:2015</a></li>
                                         <li> <i class="fa fa-dot-circle-o"></i> &nbsp; <a style="text-decoration: underline;" href="include/About_us_PDF/2NSIC Certificate - Renuka Tools, Aurangabad 001.pdf" target="_blank">NSIC Registration Certificate</a></li>
 
