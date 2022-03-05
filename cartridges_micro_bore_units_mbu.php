@@ -250,19 +250,19 @@ $ProductCategory = $_REQUEST['product_category'];
                                     <div class="tab-pane fade" id="cartridges_micro_bore_units_mbu_tab_two">
                                         <h6 class="tab_heading">MBU - Angular Mounting Type</h6>
                                         <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small1.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big1.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small2.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big2.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small3.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big3.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
-                                            <div class="col-md-3">
-                                                <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small5.png" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big5.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                            <div class="col-md-2">
+                                                <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small5.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big5.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_small4.jpg" alt="include/img/Micro Bore Units/Angular Mounting Type/angular_mounting_type_big4.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
                                         </div>
@@ -716,17 +716,20 @@ $ProductCategory = $_REQUEST['product_category'];
                                     <div class="tab-pane fade" id="cartridges_micro_bore_units_mbu_tab_three">
                                         <h6 class="tab_heading">MBU - Straight Mounting Type</h6>
                                         <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_small1.jpg" alt="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_big1.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_small2.jpg" alt="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_big2.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_small3.jpg" alt="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_big3.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
-                                            <div class="col-md-3">
+                                            <div class="col-md-2">
                                                 <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_small4.jpg" alt="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_big4.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_small5.jpg" alt="include/img/Micro Bore Units/Straight Mounting Type/straight_mounting_type_big5.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                             </div>
                                         </div>
                                         <h6 class="tab_heading">Specification Chart</h6>
@@ -1438,7 +1441,8 @@ $ProductCategory = $_REQUEST['product_category'];
                                             <div class="tab-content reviews-tab">
                                                 <div class="tab-pane fade show active" id="applications_of_mbu_tab_one">
                                                     <div class="tab-one">
-                                                        <h6 class="tab_heading">ID Boring Application using Micro Bore Units </h6>
+                                                        <h6 class="tab_heading">ID Boring Application using Micro Bore Units 
+                                                        </h6>
                                                         <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                                             <div class="col-md-1"> </div>
                                                             <div class="col-md-5">

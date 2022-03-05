@@ -421,7 +421,7 @@ $files1 = array_diff(scandir($dir1, 1), array(".", ".."));
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="product-slider-box-wrapper">
-                                <div class="product-slider-box slick-row-15 slick-arrow-style">
+                                <div class="product-slider-box slick-row-15 slick-arrow-style" >
                                     <div class="pro-large-img"> <img src="include/img/why us/5Quality_Control.jpeg" alt="World wide accepted QC Report" />
                                         <div class="mini-slider-footer">
                                             <h6>World wide accepted QC Report</h6>
