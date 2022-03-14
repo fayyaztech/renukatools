@@ -233,7 +233,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                             <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                                 <div class="col-md-1"> </div>
                                                 <div class="col-md-10">
-                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/Big1.png" alt="include/img/Micro Bore Units/Nomenclature/Big1.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/MBUSmall1.jpg" alt="include/img/Micro Bore Units/Nomenclature/MBUbig1.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                 </div>
                                                 <div class="col-md-1"> </div>
                                             </div>
@@ -241,7 +241,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                             <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                                 <div class="col-md-1"> </div>
                                                 <div class="col-md-10">
-                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/Big2.png" alt="include/img/Micro Bore Units/Nomenclature/Big2.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/MBUsmall2.jpg" alt="include/img/Micro Bore Units/Nomenclature/MBUbig2.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                 </div>
                                                 <div class="col-md-1"> </div>
                                             </div>
@@ -313,10 +313,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T6/T8</td>
                                                         <td> RTS14 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -333,10 +333,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T6/T8</td>
                                                         <td> RTS14 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -353,12 +353,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T6/T8</td>
                                                         <td> RTS14 </td>
                                                         <td>
-                                                            <p><svg viewBox="0 0 17 17">
-                                                                    <path d="M5.9,1.2L0.7,6.5l5.2,5.4l5.2-5.4L5.9,1.2z" />
-                                                                </svg></i></p>
+                                                        <i class="fa fa-star" aria-hidden="true"></i>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -375,10 +373,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T6/T8</td>
                                                         <td> RTS14 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -395,12 +393,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T8/T10</td>
                                                         <td> RTS16 </td>
                                                         <td>
-                                                            <p><svg viewBox="0 0 17 17">
-                                                                    <path d="M5.9,1.2L0.7,6.5l5.2,5.4l5.2-5.4L5.9,1.2z" />
-                                                                </svg></i></p>
+                                                            <i class="fa fa-star" aria-hidden="true"></i>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -417,12 +413,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T6/T10</td>
                                                         <td> RTS16 </td>
                                                         <td>
-                                                            <p><svg viewBox="0 0 17 17">
-                                                                    <path d="M5.9,1.2L0.7,6.5l5.2,5.4l5.2-5.4L5.9,1.2z" />
-                                                                </svg></i></p>
+                                                            <i class="fa fa-star" aria-hidden="true"></i>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -439,12 +433,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T6/T10</td>
                                                         <td> RTS16 </td>
                                                         <td>
-                                                            <p><svg viewBox="0 0 17 17">
-                                                                    <path d="M5.9,1.2L0.7,6.5l5.2,5.4l5.2-5.4L5.9,1.2z" />
-                                                                </svg></i></p>
+                                                            <i class="fa fa-star" aria-hidden="true"></i>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -461,12 +453,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T15/T10 </td>
                                                         <td> RTS20</td>
                                                         <td>
-                                                            <p><svg viewBox="0 0 17 17">
-                                                                    <path d="M5.9,1.2L0.7,6.5l5.2,5.4l5.2-5.4L5.9,1.2z" />
-                                                                </svg></i></p>
+                                                           <i class="fa fa-star" aria-hidden="true"></i>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -483,12 +473,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T7/T10 </td>
                                                         <td> RTS20</td>
                                                         <td>
-                                                            <p><svg viewBox="0 0 17 17">
-                                                                    <path d="M5.9,1.2L0.7,6.5l5.2,5.4l5.2-5.4L5.9,1.2z" />
-                                                                </svg></i></p>
+                                                           <i class="fa fa-star" aria-hidden="true"></i>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -505,10 +493,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T8/T10</td>
                                                         <td> RTS20 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -525,10 +513,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T8/T10</td>
                                                         <td> RTS20 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -545,10 +533,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T15</td>
                                                         <td> RTS22 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -565,12 +553,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T8/T15</td>
                                                         <td> RTS22 </td>
                                                         <td>
-                                                            <p><svg viewBox="0 0 17 17">
-                                                                    <path d="M5.9,1.2L0.7,6.5l5.2,5.4l5.2-5.4L5.9,1.2z" />
-                                                                </svg></i></p>
+                                                           <i class="fa fa-star" aria-hidden="true"></i>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -587,10 +573,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T8/T15</td>
                                                         <td> RTS22 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -607,10 +593,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T10/T15</td>
                                                         <td> RTS22 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -627,10 +613,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T8/T15</td>
                                                         <td> RTS22 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -647,10 +633,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T20/3MM</td>
                                                         <td> RTS32 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -667,10 +653,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T15/3MM</td>
                                                         <td> RTS32 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -687,10 +673,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         <td>T15/3MM</td>
                                                         <td> RTS32 </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-circle" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -700,12 +686,12 @@ $ProductCategory = $_REQUEST['product_category'];
                                         <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                             <div class="col-md-12">
                                                 <ul>
-                                                    <li> <i class="fa fa-dot-circle-o"></i> &nbsp; Micro Bore Units are delivered with all required spares such as insert screw, mounting screws, spanner & torx keys. </li>
+                                                    <li> <i class="fa fa-dot-circle-o"></i> &nbsp; Micro Bore Units are delivered with all required spares such as insert screw, mounting screws, spanner, torx keys & allen keys. </li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Inserts are not included with Micro Bore Units.</li>
-                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; Spares are sold separately as well and can be ordered as per the ordering code shown in above table. </li>
-                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; In the above table, <i class="fa fa-star" aria-hidden="true"></i> denotes ready in stock & <i class="fa fa-square" aria-hidden="true"></i> denotes lead time of one week.</li>
+                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; Spares sold separately as well and can be ordered as per the ordering code shown in above table. </li>
+                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; In the above table, <i class="fa fa-star" aria-hidden="true"></i>  denotes ready in stock & <i class="bi bi-suit-diamond-fill"></i> denotes lead time of one week.</li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Minimum diameter (Dmin) calculated based on 0.4mm insert nose radius.</li>
-                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; MBU variants SL/RDU 07 are specially designed for close tolerance undercut applications. </li>
+                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; MBU variants AL/RD 07 are specially designed for close tolerance undercut applications. </li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Maximum recommended material removal is 0.5mm diametrically.</li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Customized MBU for special requirements can also be provided but will be made to order with a lead time of 3-6 weeks.</li>
                                                 </ul>
@@ -770,13 +756,13 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>1</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SLC 04</p>
+                                                            <p>RT MBU SLW 02</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SRC 04</p>
+                                                            <p>RT MBU SRW 02</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..0401</p>
+                                                            <p>WC..0201..</p>
                                                         </td>
                                                         <td>
                                                             <p>14</p>
@@ -791,27 +777,159 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>22.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS040000</p>
+                                                            <p>RTMS14</p>
                                                         </td>
                                                         <td>
                                                             <p>M2.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>T6/T7</p>
+                                                            <p>T6/T8</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTS04</p>
+                                                            <p>RTS14</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-star" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td>
                                                             <p>2</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLC 04</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRC 04</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC..04T0..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>11.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>4.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M2.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T6/T8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>3</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLT 06 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRT 06 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC..06T1..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>11.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>4.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M2.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T6/T8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>4</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLT 0601 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRT 0601 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC..0601..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>11.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>4.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M2.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T6/T8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>5</p>
                                                         </td>
                                                         <td>
                                                             <p>RT MBU SLC 06</p>
@@ -820,7 +938,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>RT MBU SRC 06</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..0602</p>
+                                                            <p>CC..0602..</p>
                                                         </td>
                                                         <td>
                                                             <p>16</p>
@@ -829,25 +947,25 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>13.3</p>
                                                         </td>
                                                         <td>
-                                                            <p>5.1</p>
+                                                            <p>5.1/p>
                                                         </td>
                                                         <td>
                                                             <p>27.6</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS000609</p>
+                                                            <p>RTMS16</p>
                                                         </td>
                                                         <td>
                                                             <p>M2.5</p>
                                                         </td>
                                                         <td>
-                                                            <p>T7/T10</p>
+                                                            <p>T8/T10</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTS06</p>
+                                                            <p>RTS16</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
                                                             <p><i class="fa fa-star" aria-hidden="true"></i></p>
@@ -855,51 +973,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SLC 09</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SRC 09</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>CC..09T3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>20</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>18.3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>7.2</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>37.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTMS000609</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M3.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>T15/T10</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTS09</p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>4</p>
+                                                            <p>6</p>
                                                         </td>
                                                         <td>
                                                             <p>RT MBU SLT 06</p>
@@ -908,7 +982,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>RT MBU SRT 06</p>
                                                         </td>
                                                         <td>
-                                                            <p>TC..06T1</p>
+                                                            <p>TC..06T1..</p>
                                                         </td>
                                                         <td>
                                                             <p>16</p>
@@ -923,7 +997,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>26.1</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS000609</p>
+                                                            <p>RTMS16</p>
                                                         </td>
                                                         <td>
                                                             <p>M2.0</p>
@@ -932,98 +1006,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>T6/T10</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTS06</p>
+                                                            <p>RTS16</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-star" aria-hidden="true"></i></p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SLT 09</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SRT 09</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..0902</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>20</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>18.3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>6.3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>37.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTMS000609</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M2.2</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>T6/T10</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTS09</p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-star" aria-hidden="true"></i></p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SLT 11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SRT 11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..1102</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>22</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>22.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>7.2</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>49.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTMS000011</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M2.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>T7/T15</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTS11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
                                                             <p><i class="fa fa-star" aria-hidden="true"></i></p>
@@ -1034,43 +1020,43 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>7</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SLT 16</p>
+                                                            <p>RT MBU SLT 0601</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SRTC 16</p>
+                                                            <p>RT MBU SRT 0601</p>
                                                         </td>
                                                         <td>
-                                                            <p>TC..16T3</p>
+                                                            <p>TC..0601..</p>
                                                         </td>
                                                         <td>
-                                                            <p>32</p>
+                                                            <p>16</p>
                                                         </td>
                                                         <td>
-                                                            <p>32</p>
+                                                            <p>13.3</p>
                                                         </td>
                                                         <td>
-                                                            <p>10.3</p>
+                                                            <p>4.1</p>
                                                         </td>
                                                         <td>
-                                                            <p>69.6</p>
+                                                            <p>26.1</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS000016</p>
+                                                            <p>RTMS16</p>
                                                         </td>
                                                         <td>
-                                                            <p>M3.5</p>
+                                                            <p>M2.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>T15</p>
+                                                            <p>T6/T10</p>
                                                         </td>
                                                         <td>
                                                             <p>RTS16</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="fa fa-star" aria-hidden="true"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -1078,13 +1064,57 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>8</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SLTP 09</p>
+                                                            <p>RT MBU SLC 09</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SRTP 09</p>
+                                                            <p>RT MBU SRC 09</p>
                                                         </td>
                                                         <td>
-                                                            <p>TP..0902</p>
+                                                            <p>CC..09T3..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>20</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>18.3</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>7.2</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>37.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS20</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M3.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T15/T10</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS20</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>9</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLT 09</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRT 09</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC..0902..</p>
                                                         </td>
                                                         <td>
                                                             <p>20</p>
@@ -1099,66 +1129,22 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>37.1</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS000609</p>
+                                                            <p>RTMS20</p>
                                                         </td>
                                                         <td>
-                                                            <p>M2.5</p>
+                                                            <p>M2.2</p>
                                                         </td>
                                                         <td>
-                                                            <p>T6/T10</p>
+                                                            <p>T7/T10</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTS09</p>
+                                                            <p>RTS20</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>9</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SLTP 11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RT MBU SRTP 11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TP..1103</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>22</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>22.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>7.2</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>49.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTMS000011</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M3.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>T7/T15</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>RTS11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
-                                                        </td>
-                                                        <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="fa fa-star" aria-hidden="true"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -1166,43 +1152,43 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>10</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SLTP16</p>
+                                                            <p>RT MBU SLTP 09</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SRTP 16</p>
+                                                            <p>RT MBU SRTP 09</p>
                                                         </td>
                                                         <td>
-                                                            <p>TP..16T3</p>
+                                                            <p>TP..0902..</p>
                                                         </td>
                                                         <td>
-                                                            <p>32</p>
+                                                            <p>20</p>
                                                         </td>
                                                         <td>
-                                                            <p>32</p>
+                                                            <p>18.3</p>
                                                         </td>
                                                         <td>
-                                                            <p>10.3</p>
+                                                            <p>6.3</p>
                                                         </td>
                                                         <td>
-                                                            <p>69.6</p>
+                                                            <p>37.1</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS000016</p>
+                                                            <p>RTMS20</p>
                                                         </td>
                                                         <td>
-                                                            <p>M3.5</p>
+                                                            <p>M2.5</p>
                                                         </td>
                                                         <td>
-                                                            <p>T15</p>
+                                                            <p>T8/T10</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTS16</p>
+                                                            <p>RTS20</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -1216,7 +1202,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>RT MBU SRDU 07 20</p>
                                                         </td>
                                                         <td>
-                                                            <p>DC..0702</p>
+                                                            <p>DC..0702..</p>
                                                         </td>
                                                         <td>
                                                             <p>20</p>
@@ -1231,22 +1217,22 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>37.1</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS000609</p>
+                                                            <p>RTMS20</p>
                                                         </td>
                                                         <td>
                                                             <p>M2.5</p>
                                                         </td>
                                                         <td>
-                                                            <p>T7/T10</p>
+                                                            <p>T8/T10</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTS09</p>
+                                                            <p>RTS20</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-star" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -1254,13 +1240,13 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>12</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SLDU 07 22</p>
+                                                            <p>RT MBU SLC 09 22</p>
                                                         </td>
                                                         <td>
-                                                            <p>RT MBU SRDU 07 22</p>
+                                                            <p>RT MBU SRC 09 22</p>
                                                         </td>
                                                         <td>
-                                                            <p>DC..0702</p>
+                                                            <p>CC..09T3..</p>
                                                         </td>
                                                         <td>
                                                             <p>22</p>
@@ -1275,22 +1261,330 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>49.1</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTMS000011</p>
+                                                            <p>RTMS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M3.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T15</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>13</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLT 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRT 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC..1102..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>7.2</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS22</p>
                                                         </td>
                                                         <td>
                                                             <p>M2.5</p>
                                                         </td>
                                                         <td>
-                                                            <p>T7/T15</p>
+                                                            <p>T8/T15</p>
                                                         </td>
                                                         <td>
-                                                            <p>RTS11</p>
+                                                            <p>RTS22</p>
                                                         </td>
                                                         <td>
-                                                            <p><i class="fa fa-square" aria-hidden="true"></i></p>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                         <td>
                                                             <p><i class="fa fa-star" aria-hidden="true"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLT 1103</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRT 1103</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC..1103..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>7.2</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M2.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T8/T15</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>15</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLTP 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRTP 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TP..1103..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>7.2</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M3.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T10/T15</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLDU 07 22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRDU 07 22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>DC..0702..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>7.2</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M2.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T8/T15</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>17</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLC 12</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRC 12</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC..1204..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.3</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>69.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M4.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T20/3MM</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>18</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLT 16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRT 16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC..16T3..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.3</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>69.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M3.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T15/3MM</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>19</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SLTP 16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RT MBU SRTP 16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TP..16T3..</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.3</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>69.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTMS32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>M3.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>T15/3MM</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>RTS32</p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
+                                                        </td>
+                                                        <td>
+                                                            <p><i class="bi bi-suit-diamond-fill"></i></p>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -1300,132 +1594,15 @@ $ProductCategory = $_REQUEST['product_category'];
                                         <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                             <div class="col-md-12">
                                                 <ul>
-                                                    <li> <i class="fa fa-dot-circle-o"></i> &nbsp; Micro Bore Units are delivered with all required spares such as insert screw, mounting screws, spanner & torx keys. </li>
+                                                    <li> <i class="fa fa-dot-circle-o"></i> &nbsp; Micro Bore Units are delivered with all required spares such as insert screw, mounting screws, spanner, torx keys & allen keys. </li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Inserts are not included with Micro Bore Units.</li>
-                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; Spares are sold separately as well and can be ordered as per the ordering code shown in above table. </li>
-                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; In the above table, <i class="fa fa-star" aria-hidden="true"></i> denotes ready in stock & <i class="fa fa-square" aria-hidden="true"></i> denotes lead time of one week.</li>
+                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; Spares sold separately as well and can be ordered as per the ordering code shown in above table. </li>
+                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; In the above table, <i class="fa fa-star" aria-hidden="true"></i> denotes ready in stock & <i class="bi bi-suit-diamond-fill"></i> denotes lead time of one week.</li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Minimum diameter (Dmin) calculated based on 0.4mm insert nose radius.</li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; MBU variants SL/RDU 07 are specially designed for close tolerance undercut applications. </li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Maximum recommended material removal is 0.5mm diametrically.</li>
                                                     <li><i class="fa fa-dot-circle-o"></i> &nbsp; Customized MBU for special requirements can also be provided but will be made to order with a lead time of 3-6 weeks.</li>
                                                 </ul>
-                                            </div>
-                                        </div>
-                                        <h6 class="tab_heading">Clamping Torque Chart for Mounting Screw & Insert Screw of RT MBU</h6>
-                                        <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
-                                            <div class="col-md-6">
-                                                <div class="responsive_table">
-                                                    <table class="table table-bordered">
-                                                        <thead>
-                                                            <th>Sr. No.</th>
-                                                            <th>Mounting Screw</th>
-                                                            <th>Torque (N.m)</th>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>1</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>RTMS040000</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>1.0</p>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>2</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>RTMS000609</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>2.2</p>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>3</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>RTMS000011</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>4.0</p>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>4</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>RTMS000016</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>5.7</p>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="responsive_table">
-                                                    <table class="table table-bordered">
-                                                        <thead>
-                                                            <th>Sr. No.</th>
-                                                            <th>Insert Screw</th>
-                                                            <th>Torque (N.m)</th>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>1</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>M2.0</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>0.6</p>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>2</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>M2.2</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>0.8</p>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>3</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>M2.5</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>1.0</p>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td>
-                                                                    <p>4</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>M3.5</p>
-                                                                </td>
-                                                                <td>
-                                                                    <p>2.5</p>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1581,8 +1758,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     <tr>
                                                         <th> Detail </th>
                                                         <th> Sr.No. </th>
-                                                        <th> Insert </th>
-                                                        <th> DhH7 </th>
+                                                        <th> DbH7 </th>
                                                         <th> d1 </th>
                                                         <th> d2 </th>
                                                         <th> d3 </th>
@@ -1596,20 +1772,17 @@ $ProductCategory = $_REQUEST['product_category'];
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td rowspan="10">
+                                                        <td rowspan="4">
                                                             <p>A</p>
                                                         </td>
                                                         <td>
                                                             <p>1</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..0401</p>
+                                                            <p>14.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>14</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>16</p>
+                                                            <p>16.0</p>
                                                         </td>
                                                         <td>
                                                             <p>3.7</p>
@@ -1627,7 +1800,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>1.2</p>
                                                         </td>
                                                         <td>
-                                                            <p>8</p>
+                                                            <p>8.0</p>
                                                         </td>
                                                         <td>
                                                             <p>8.65 &plusmn;0.02</p>
@@ -1641,13 +1814,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>2</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..0602</p>
+                                                            <p>16.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>16</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>19</p>
+                                                            <p>19.0</p>
                                                         </td>
                                                         <td>
                                                             <p>4.6</p>
@@ -1665,7 +1835,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>1.6</p>
                                                         </td>
                                                         <td>
-                                                            <p>9</p>
+                                                            <p>9.0</p>
                                                         </td>
                                                         <td>
                                                             <p>9.65 &plusmn;0.02</p>
@@ -1679,13 +1849,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>3</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..09T3</p>
+                                                            <p>20.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>20</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>25</p>
+                                                            <p>25.0</p>
                                                         </td>
                                                         <td>
                                                             <p>4.6</p>
@@ -1703,7 +1870,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>1.6</p>
                                                         </td>
                                                         <td>
-                                                            <p>9</p>
+                                                            <p>9.0</p>
                                                         </td>
                                                         <td>
                                                             <p>12.50 &plusmn;0.05</p>
@@ -1717,282 +1884,48 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>4</p>
                                                         </td>
                                                         <td>
-                                                            <p>TC..06T1</p>
+                                                            <p>22.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>16</p>
+                                                            <p>30.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>19</p>
+                                                            <p>6.5</p>
                                                         </td>
                                                         <td>
-                                                            <p>4.6</p>
+                                                            <p>4.3</p>
                                                         </td>
                                                         <td>
-                                                            <p>3.2</p>
+                                                            <p>24.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>11.5</p>
+                                                            <p>5.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>2.8</p>
+                                                            <p>1.8</p>
                                                         </td>
                                                         <td>
-                                                            <p>1.6</p>
+                                                            <p>13.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>9</p>
+                                                            <p>15.40 &plusmn;0.05</p>
                                                         </td>
                                                         <td>
-                                                            <p>9.65 &plusmn;0.02</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M3.0</p>
+                                                            <p>M4.0</p>
                                                         </td>
                                                     </tr>
                                                     <tr>
+                                                        <td rowspan="1">
+                                                            <p>B</p>
+                                                        </td>
                                                         <td>
                                                             <p>5</p>
                                                         </td>
                                                         <td>
-                                                            <p>TC..0902</p>
+                                                            <p>32.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>20</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>25</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>3.2</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>15.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>9</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>12.50 &plusmn;0.05</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M3.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..1102</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>22</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>6.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>24.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>5.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>13</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>15.40 &plusmn;0.05</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M4.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>7</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>DC..0702</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>20</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>25</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>3.2</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>15.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>9</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>12.50 &plusmn;0.05</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M3.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>DC..0702</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>22</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>6.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>24.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>5.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>13</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>15.40 &plusmn;0.05</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M4.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>9</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TP..0902</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>20</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>25</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>3.2</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>15.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>9</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>12.50 &plusmn;0.05</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M3.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>10</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TP..1103</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>22</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>6.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>24.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>5.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>13</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>15.40 &plusmn;0.05</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M4.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td rowspan="2">
-                                                            <p>B</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..16T3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>32</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>46</p>
+                                                            <p>46.0</p>
                                                         </td>
                                                         <td>
                                                             <p>11.9</p>
@@ -2007,48 +1940,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>6.3</p>
                                                         </td>
                                                         <td>
-                                                            <p>*</p>
+                                                            <p>-</p>
                                                         </td>
                                                         <td>
-                                                            <p>16</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>23.00 &plusmn;0.05</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>M5.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>12</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TP..16T3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>32</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>46</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>11.9</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>5.4</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>33.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>6.3</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>*</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>16</p>
+                                                            <p>16.0</p>
                                                         </td>
                                                         <td>
                                                             <p>23.00 &plusmn;0.05</p>
@@ -2059,6 +1954,15 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                        </div>
+                                        <h6 class="tab_heading">Notes</h6>
+                                        <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
+                                            <div class="col-md-12">
+                                                <ul>
+                                                    <li> <i class="fa fa-dot-circle-o"></i> &nbsp; Mounting details mentioned in the above table depend on the bush diameter (Db) of the Micro Bore Unit. </li>
+                                                    <li><i class="fa fa-dot-circle-o"></i> &nbsp; Please refer to tables on page no. 4 & 5 to find the Bush Diameter (Db) of your selected Micro Bore Unit.</li>
+                                                    </ul>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="tab-pane fade" id="cartridges_micro_bore_units_mbu_tab_sixth">
@@ -2079,6 +1983,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                 <thead>
                                                     <tr>
                                                         <th> Sr.No. </th>
+                                                        <th>RT MBU Item Code</th>
                                                         <th> Insert </th>
                                                         <th> Dmin </th>
                                                         <th> D2 </th>
@@ -2093,7 +1998,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>1</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..040104</p>
+                                                            <p>AL/RW 02</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>WC.. 020104</p>
                                                         </td>
                                                         <td>
                                                             <p>20.0</p>
@@ -2116,7 +2024,88 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>2</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..060204</p>
+                                                            <p>AL/RC 04</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 04T004</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>20.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>19.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>0.50</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>8.3</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>3</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RT 06 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 06T104</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>20.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>19.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>0.50</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>8.3</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>4</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RT 0601 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 060104</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>20.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>19.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>0.50</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>8.3</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RC 06</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 060204</p>
                                                         </td>
                                                         <td>
                                                             <p>25.9</p>
@@ -2136,33 +2125,13 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>3</p>
+                                                            <p>6</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..09T304</p>
+                                                            <p>AL/RT 06</p>
                                                         </td>
                                                         <td>
-                                                            <p>33.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>28.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>2.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>2.8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>14.7</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>4</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..06T104</p>
+                                                            <p>TC.. 06T104</p>
                                                         </td>
                                                         <td>
                                                             <p>25.4</p>
@@ -2182,71 +2151,28 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..090204</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>33.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>28.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>2.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>2.8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>14.5</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..110204</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>42.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>38.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>2.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>4.8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>17.2</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
                                                             <p>7</p>
                                                         </td>
                                                         <td>
-                                                            <p>TC..16T304</p>
+                                                            <p>AL/RT 0601</p>
                                                         </td>
                                                         <td>
-                                                            <p>60.6</p>
+                                                            <p>TC.. 060104</p>
                                                         </td>
                                                         <td>
-                                                            <p>55.0</p>
+                                                            <p>25.4</p>
                                                         </td>
                                                         <td>
-                                                            <p>2.80</p>
+                                                            <p>22.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>8.0</p>
+                                                            <p>1.45</p>
                                                         </td>
                                                         <td>
-                                                            <p>26.2</p>
+                                                            <p>2.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.6</p>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -2254,7 +2180,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>8</p>
                                                         </td>
                                                         <td>
-                                                            <p>TP..090204</p>
+                                                            <p>AL/RC 09</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 09T304</p>
                                                         </td>
                                                         <td>
                                                             <p>33.1</p>
@@ -2277,7 +2206,88 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>9</p>
                                                         </td>
                                                         <td>
-                                                            <p>TP..110304</p>
+                                                            <p>AL/RT 09</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 090204</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>33.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>28.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>14.5</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>10</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RTP 09</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TP.. 090204</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>33.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>28.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>14.5</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RD 07 20</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>DC.. 070204</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>33.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>28.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>14.5</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>12</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RC 09 22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 09T304</p>
                                                         </td>
                                                         <td>
                                                             <p>42.6</p>
@@ -2297,10 +2307,117 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>10</p>
+                                                            <p>13</p>
                                                         </td>
                                                         <td>
-                                                            <p>TP..16T304</p>
+                                                            <p>AL/RT 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 110204</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>42.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>38.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>4.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>17.2</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RT 1103</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 110304</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>42.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>38.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>4.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>17.2</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>15</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RTP 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TP.. 110304</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>42.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>38.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>4.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>17.2</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RD 07 22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>DC.. 070204</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>42.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>38.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>4.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>17.2</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>17</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RC 12</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC..120404</p>
                                                         </td>
                                                         <td>
                                                             <p>60.6</p>
@@ -2320,25 +2437,54 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>11</p>
+                                                            <p>18</p>
                                                         </td>
                                                         <td>
-                                                            <p>DC..070204</p>
+                                                            <p>AL/RT 16</p>
                                                         </td>
                                                         <td>
-                                                            <p>42.6</p>
+                                                            <p>TC.. 16T304</p>
                                                         </td>
                                                         <td>
-                                                            <p>38.0</p>
+                                                            <p>60.6</p>
                                                         </td>
                                                         <td>
-                                                            <p>2.30</p>
+                                                            <p>55.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>4.8</p>
+                                                            <p>2.80</p>
                                                         </td>
                                                         <td>
-                                                            <p>19.6</p>
+                                                            <p>8.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>26.2</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>19</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>AL/RTP 16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TP.. 16T304</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>60.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>55.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.80</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>8.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>26.2</p>
                                                         </td>
                                                     </tr>
                                                 </tbody>
@@ -2361,6 +2507,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                 <thead>
                                                     <tr>
                                                         <th> Sr.No. </th>
+                                                        <th>RT MBU Item Code</th>
                                                         <th> Insert </th>
                                                         <th> Dmin </th>
                                                         <th> D2 </th>
@@ -2375,7 +2522,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>1</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..040104</p>
+                                                            <p>SL/RW 02</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>WC.. 020104</p>
                                                         </td>
                                                         <td>
                                                             <p>22.0</p>
@@ -2398,7 +2548,88 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>2</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..060204</p>
+                                                            <p>SL/RC 04</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 04T004</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>21.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>0.50</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.3</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>3</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RT 06 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 06T104</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>21.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>0.50</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.3</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>4</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RT 0601 14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 060104</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>22.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>21.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>0.50</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.3</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RC 06</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 060204</p>
                                                         </td>
                                                         <td>
                                                             <p>27.6</p>
@@ -2418,33 +2649,13 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>3</p>
+                                                            <p>6</p>
                                                         </td>
                                                         <td>
-                                                            <p>CC..09T304</p>
+                                                            <p>SL/RT 06</p>
                                                         </td>
                                                         <td>
-                                                            <p>37.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>34.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>3.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>17.5</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>4</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..06T104</p>
+                                                            <p>TC.. 06T104</p>
                                                         </td>
                                                         <td>
                                                             <p>26.1</p>
@@ -2453,7 +2664,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>25.0</p>
                                                         </td>
                                                         <td>
-                                                            <p>0.50</p>
+                                                            <p>0.5</p>
                                                         </td>
                                                         <td>
                                                             <p>1.8</p>
@@ -2464,10 +2675,39 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>5</p>
+                                                            <p>7</p>
                                                         </td>
                                                         <td>
-                                                            <p>TC..090204</p>
+                                                            <p>SL/RT 0601</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 060104</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>26.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>25.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>0.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>9.0</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>8</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RC 09</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 09T304</p>
                                                         </td>
                                                         <td>
                                                             <p>37.1</p>
@@ -2487,56 +2727,13 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>6</p>
+                                                            <p>9</p>
                                                         </td>
                                                         <td>
-                                                            <p>TC..110204</p>
+                                                            <p>SL/RT 09</p>
                                                         </td>
                                                         <td>
-                                                            <p>49.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>46.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>6.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>16.4</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>7</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TC..16T304</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>69.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>67.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>10.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>25.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>8</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TP..090204</p>
+                                                            <p>TC.. 090204</p>
                                                         </td>
                                                         <td>
                                                             <p>37.1</p>
@@ -2559,53 +2756,10 @@ $ProductCategory = $_REQUEST['product_category'];
                                                             <p>10</p>
                                                         </td>
                                                         <td>
-                                                            <p>TP..110304</p>
+                                                            <p>SL/RTP 09</p>
                                                         </td>
                                                         <td>
-                                                            <p>49.1</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>46.5</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>6.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>16.4</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>11</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>TP..16T304</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>69.6</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>67.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>1.30</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>10.0</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>25.0</p>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            <p>12</p>
-                                                        </td>
-                                                        <td>
-                                                            <p>DC..070204(20)</p>
+                                                            <p>TP.. 090204</p>
                                                         </td>
                                                         <td>
                                                             <p>37.1</p>
@@ -2625,10 +2779,39 @@ $ProductCategory = $_REQUEST['product_category'];
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <p>13</p>
+                                                            <p>11</p>
                                                         </td>
                                                         <td>
-                                                            <p>DC..070204(22)</p>
+                                                            <p>SL/RDU 07 20 </p>
+                                                        </td>
+                                                        <td>
+                                                            <p>DC.. 070204 </p>
+                                                        </td>
+                                                        <td>
+                                                            <p>37.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>34.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>3.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>13.6</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>12</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RC 09 22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC.. 09T304</p>
                                                         </td>
                                                         <td>
                                                             <p>49.1</p>
@@ -2644,6 +2827,188 @@ $ProductCategory = $_REQUEST['product_category'];
                                                         </td>
                                                         <td>
                                                             <p>16.4</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>13</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RT 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 110204</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>46.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>6.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>16.4</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>14</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RT 1103</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 110304</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>46.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>6.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>16.4</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>15</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RTP 11</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TP.. 110304</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>46.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>6.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>16.4</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RDU 07 22</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>DC.. 070204</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>49.1</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>46.5</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>6.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>16.4</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>17</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RC 12</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>CC..120404</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>69.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>67.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>25.0</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>18</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RT 16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TC.. 16T304</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>69.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>67.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>25.0</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>19</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>SL/RTP16</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>TP.. 16T304</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>69.6</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>67.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>1.30</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>10.0</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>25.0</p>
                                                         </td>
                                                     </tr>
                                                 </tbody>
