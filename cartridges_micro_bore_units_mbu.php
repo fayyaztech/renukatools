@@ -241,7 +241,7 @@ $ProductCategory = $_REQUEST['product_category'];
                                             <div class="row" style="padding: 5px 5px 5px 10px;margin-top: 10px;">
                                                 <div class="col-md-1"> </div>
                                                 <div class="col-md-10">
-                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/MBUsmall2.jpg" alt="include/img/Micro Bore Units/Nomenclature/MBUbig2.png" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
+                                                    <a href="javascript:void(0)" class="pop_up_image"> <img src="include/img/Micro Bore Units/Nomenclature/MBUsmall2.jpg" alt="include/img/Micro Bore Units/Nomenclature/MBUbig2.jpg" style="cursor: zoom-in;" oncontextmenu="return false;"> </a>
                                                 </div>
                                                 <div class="col-md-1"> </div>
                                             </div>
